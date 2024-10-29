@@ -1,6 +1,6 @@
-CREATE DATABASE Jardineria_OrtizZully; -- Crear una base de datos
+CREATE DATABASE Jardineria_Ortegafreiler; -- Crear una base de datos
 
-USE Jardineria_OrtizZully; -- Utilizar mi BBDD
+USE Jardineria_Ortegafreiler; -- Utilizar mi BBDD
 
 CREATE TABLE gama_producto(
 	gama VARCHAR(50) PRIMARY KEY,
